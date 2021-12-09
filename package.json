@@ -161,7 +161,6 @@
     "cookie-parser": "^1.4.3",
     "copy-webpack-plugin": "^6.4.1",
     "cors": "^2.8.5",
-    "cross-env": "^5.2.1",
     "csslint": "^1.0.5",
     "date-fns": "^2.16.1",
     "decomment": "^0.8.7",
