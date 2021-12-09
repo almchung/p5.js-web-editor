@@ -38,8 +38,7 @@ Please post bugs and feature requests in the correct repository:
 
 ## Acknowledgements
 
-Support for this project has come from [Processing Foundation](https://processingfoundation.org/), [NYU ITP](https://tisch.nyu.edu/itp), and [CS4All, NYC DOE](http://cs4all.nyc/). 
+Support for this project has come from [Processing Foundation](https://processingfoundation.org/), [NYU ITP](https://tisch.nyu.edu/itp), and [CS4All, NYC DOE](http://cs4all.nyc/).
 
 Hosting and technical support has come from: <br />
 <a href="https://www.browserstack.com/" target="_blank"><img width="100" src="https://user-images.githubusercontent.com/6063380/46976166-ab280a80-d096-11e8-983b-18dd38c8cc9b.png" /></a> <a href="https://mlab.com" target="_blank"><img width="100" src="https://user-images.githubusercontent.com/6063380/46976572-dbbc7400-d097-11e8-89fe-c7bb08ed0775.png" /></a>
-
